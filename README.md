@@ -6,4 +6,4 @@ Two sets of flash cards, one for alto cleph and one for treble clef.  Learn alto
 4. Add the remaining G string notes (Cards 10, 11, 12)
 5. Add the remaining C string notes (Cards 14, 15, 16)
 
-Later learng the same notes from the treble cleph (treble-viola.pdf)
+Later learn the same notes from the treble cleph (treble-viola.pdf)
